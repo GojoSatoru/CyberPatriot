@@ -12,4 +12,4 @@ In the event that you do use these to sweep through competition after competitio
 
 Please, do us all a favor and ONLY use these to learn from, please don't copy and past like any other script kitty out there.
 
-~Silver_Drachen
+~RedHoodHacker
