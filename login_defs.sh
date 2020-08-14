@@ -25,7 +25,10 @@ sudo echo "###ENCRYPT METHOD###" >> /etc/login.defs
 sudo echo "ENCRYPT_METHOD SHA512" >> /etc/login.defs
 sudo echo "LOG_OK_LOGINS yes" >> /etc/login.defs
 sudo echo "LOG_UNKFAIL_ENAB yes" >> /etc/login.defs
-
+#i am kind of confused on how to set this...cause I don't know what kind of file one 
+#might create, one that the sys might need access to. but certain situations 
+#will pertain to certain files...
+sudo echo "UMASK 700" >> /etc/login.defs
 
 
 
